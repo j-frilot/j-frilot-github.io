@@ -8,7 +8,7 @@ let projects = [
         img: "https://res.cloudinary.com/dsip2gx3i/image/upload/c_scale,h_300,q_auto/v1628213237/misc/app-tracker-screenshot.png",
         title: "Application Tracker",
         link: "https://demo-tracker.netlify.app/",
-        code: "https://github.com/j-frilot/job-site"
+        code: "https://github.com/j-frilot/app-tracker"
     },
     {
         img: "https://res.cloudinary.com/dsip2gx3i/image/upload/c_scale,h_300,q_auto/v1623107920/portfolio/work-calebras.jpg",
